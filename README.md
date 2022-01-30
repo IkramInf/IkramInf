@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IkramInf
+- 👀 I’m interested in bioinformatics.
+- 🌱 I’m currently studying on biomedical engineering.
+- 💞️ I’m looking to collaborate on bioinformatics based research project.
+- 📫 How to reach me : ikraminf.mat@gmail.com.
