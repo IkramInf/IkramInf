@@ -18,13 +18,22 @@ I'm a **Biomedical Engineer** with a passion for **Bioinformatics, Artificial In
 - **[BioHub](https://github.com/IkramInf/BioHub)** - A collaborative repository for **bioinformatics workflows and tools**.
 
 ## 🛠️ Skills
-- **Programming:** Python, R, Bash
-- **AI/ML/DL:** TensorFlow, PyTorch, Scikit-learn
-- **Bioinformatics Tools:** DAVID, STRING, GEPIA2
-- **EDA & Visualization:** Pandas, Matplotlib, Seaborn
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Linux, Windows
-- **Beginner:** Docker, Django, FastAPI
+- **Programming:** Python, R, Bash  
+- **AI/ML/DL:** TensorFlow, PyTorch, Scikit-learn  
+- **EDA & Visualization:** Pandas, Matplotlib, Seaborn  
+- **Version Control:** Git, GitHub  
+- **Operating Systems:** Linux, Windows  
+- **Knowledgeable in:** Docker, Django, FastAPI  
+- **Bioinformatics Tools:**  
+NGS Data Processing: FastQC, Trimmomatic, Cutadapt, STAR, HISAT2, Bowtie2, BWA  
+Genomic Data Analysis: Samtools, BCFtools, GATK  
+Gene Expression Analysis: DESeq2, edgeR, limma, GEPIA2  
+Pathway & Functional Analysis: DAVID, KEGG, Reactome, GO (Gene Ontology), PantherDB  
+Network & Interaction Analysis: STRING, Networkx, Cytoscape  
+Multi-omics Analysis: mixOmics, MetaboAnalyst  
+Microbiome Analysis: QIIME2  
+Protein & Structural Bioinformatics: PyMOL, Alphafold  
+Variant Annotation & Interpretation: ANNOVAR, VEP (Variant Effect Predictor), ClinVar, dbSNP  
 
 ## 🏆 Achievements
 - 🎤 **Guest Speaker** at "II INTERNATIONAL CONGRESS OF SCIENTIFIC RESEARCH AND INNOVATION" (2021)
