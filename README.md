@@ -44,7 +44,7 @@ Variant Annotation & Interpretation: ANNOVAR, VEP (Variant Effect Predictor), Cl
 - 📜 **Cisco:** Python Essentials 1 & 2, NDG Linux Essentials
 - 📜 **Coursera:** Deep Learning Specialization, TensorFlow Developer Specialization, AI for Medical Diagnosis
 - 💡 **Competitive Coding:**
-  - HackerRank: **400+**
+  - HackerRank: **270**
   - Rosalind: **64**
   - LeetCode: **14**
   - Fiverr: **187**
